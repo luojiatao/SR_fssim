@@ -1,5 +1,5 @@
 # How to Run It in your Workspace：
-1. Install ' sudo apt install ros-melodic-desktop-full ' and 'sudo apt install python-catkin-tools'
+1. Install sudo apt install ros-melodic-desktop-full and sudo apt install python-catkin-tools
 2. Clone this repository to an existing ROS Workspace initialized with catkin init
 3. Run cd SR_fssim/src/fssim/ from home.
 4. Run sudo bash Download_model.sh to download gazebo models or the default website will stop the simulation.
